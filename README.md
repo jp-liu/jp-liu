@@ -2,6 +2,11 @@
 
 ### Hi there 👋
 
+你好鸭，我是刘俊平
+
+是一个进击中的前端工程师,希望自己慢慢强大起来,一起加油吧!
+
+
 <!--
 **jp-liu/jp-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
