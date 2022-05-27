@@ -1,23 +1,30 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jp-liu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<h1 align="center">Hi 👋, I'm 刘俊平</h1>
+<h3 align="center">A passionate frontend developer from China</h3>
 
-### Hi there 👋
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-你好鸭，我是刘俊平
+### About Me:
 
-是一个进击中的前端工程师,希望自己慢慢强大起来,一起加油吧!
+- 🏦 I'm a front-end developer working for iFlytek in China<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I use daily **.js**, **.ts**, **.vue**
+- 📖 I'm currently reading Huo Chunyang's 《Vuejs 设计与实现》
+- 📚 I learn programming skills on GitHub and make progress with everyone
 
+<p align="center">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" width="55" height="55"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+</p>
+---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My GitHub Stats:
 
-<!--
-**jp-liu/jp-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p >
+    <img  src="https://github-readme-stats.vercel.app/api?username=jp-liu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" title="github stats">
+    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-liu&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html" title="Top Langs">
+</p>
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jp-liu&theme=dark)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
