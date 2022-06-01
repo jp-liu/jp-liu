@@ -23,7 +23,7 @@
 
 ---
 
-### <img src='[https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F01%2F16%2F99%2F42570527ee4ed5b.jpg&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1656691360&t=285bfb3a11d55d93c7392d5266e80213)' width='25px'> My GitHub Stats:
+### My GitHub Stats:
 
 <p >
     <img  src="https://github-readme-stats.vercel.app/api?username=jp-liu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true" title="github stats">
